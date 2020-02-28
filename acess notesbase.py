@@ -1,3 +1,4 @@
+# The enviroment need to bee python 3.X and 32 bits
 # Import system modules
 import win32com.client
 import pywintypes
